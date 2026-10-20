@@ -2,3 +2,4 @@ crewai
 fastapi
 uvicorn
 requests
+tiktoken==0.5.2 --only-binary=:all:
